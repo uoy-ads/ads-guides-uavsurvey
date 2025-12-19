@@ -1,0 +1,31 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  banner: ads_logo.png
+  title: "UAV Survey: A Guide to Good Practice"
+  subtitle: Archaeology Data Service, 2014
+  description: 
+  keywords:
+    - archaeology
+    - UAV
+    - aerial survey
+  authors:
+    - name: Stephen Gray
+      orcid: https://orcid.org/0000-0002-3587-9073
+      affiliations: University of Bristol, Department of Archaeology and Anthropology
+  license: CC-BY-4.0
+  open_access: true
+  doi: https://doi.org/10.5284/dzct-et64
+  github: uoy-ads/ads-guides-uavsurvey
+  toc:
+    - file: index.md
+  exports:
+    - format: pdf
+site:
+  template: book-theme
+  options:
+    favicon: images/g2gp_signpost.png
+    logo: images/g2gp_signpost.png
+    logo_text: Guides to Good Practice
+  parts:
+    footer: footer.md
