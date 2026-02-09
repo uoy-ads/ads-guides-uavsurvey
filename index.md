@@ -10,6 +10,12 @@ All material in this guide is available [open access](https://archaeologydataser
 :alt: ADS Logo
 ```
 
+```{image} hsds_blue_black.png
+:height: 50px
+:align: left
+:alt: HSDS Logo
+```
+
 ## 1 Introduction
 
 This is Part Two of a two-part guide, concerned with establishing good practice when using a small Unmanned Aerial Vehicle (UAV) to produce near vertical photographs of a site, as part of an archaeological survey. This guidance has been created in response to the high degree of interest amongst the UK’s archaeological community in the potential application of new and affordable UAV technology.
